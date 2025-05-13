@@ -1,0 +1,10 @@
+.diagonal {
+    height: 50px;
+    width: 200px;
+    border-right: 2px solid black;
+    transform: skew(-45deg);
+  }
+
+  body {
+    background-image: url(Milly.png);
+  }
